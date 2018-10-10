@@ -51,6 +51,7 @@
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>JSP Page</title>
 </head>
+
 <body>
     <input type="button" value="POST" name="POST" id="callPOST"/>
     <input type="button" value="PUT" name="PUT" id="callPUT"/>
